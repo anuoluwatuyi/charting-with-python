@@ -1,4 +1,4 @@
-## Charting with Python
+## Data Vizualizations with Python
 This repository provides examples of how to plot different types of charts using Python libraries such as Matplotlib and Seaborn.
 
 ### Table of Contents
